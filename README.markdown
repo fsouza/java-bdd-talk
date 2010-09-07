@@ -1,5 +1,5 @@
-#Projeto Eclipse (Java) de apoio à apresentação de BDD
+#Eclipse project and Cucumber features structure for the BDD presentation on Giran
 
-Apresentação de BDD disponível em: [ Em breve um link aqui =P ]
+Presentation available at SlideShare: [ soon =P ]
 
-Esta apresentação foi parte do ciclo de apresentações internas da [Giran](http://www.giran.com.br).
+This presentation was presented on the [Giran](http://www.giran.com.br) tech talks.
