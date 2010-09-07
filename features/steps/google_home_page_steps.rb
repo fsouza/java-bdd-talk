@@ -10,5 +10,6 @@ When /^I go to the website www\.google\.com\.br$/ do
 end
 
 Then /^the title of page should be "([^"]*)"$/ do |title|
-  @browser.title.should == title
+  assert_equal @browser.title, title
+  @browser.close_current_browser_session
 end
